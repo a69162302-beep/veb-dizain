@@ -1,0 +1,143 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.mom {
+  width: 1200px;
+  height: 700px;
+  background-color: rgb(45, 44, 44);
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+h1 {
+  color: brown;
+  text-align: center;
+  position: relative;
+  top: 20px;
+  left: 50px;
+}
+
+.sek {
+  position: relative;
+  left: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 550px;
+  img {
+    width: 260px;
+    height: 350px;
+  }
+  background-color: rgb(75, 74, 74);
+  h3 {
+    color: aliceblue;
+  }
+  p {
+    color: rgb(148, 63, 63);
+  }
+  button {
+    background-color: rgb(180, 64, 103);
+    border: none;
+    width: 70px;
+    height: 30px;
+    border-radius: 40px;
+    color: aliceblue;
+  }
+}
+.two {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 550px;
+  img {
+    width: 260px;
+    height: 350px;
+  }
+  background-color: rgb(75, 74, 74);
+  h3 {
+    color: aliceblue;
+  }
+  p {
+    color: rgb(148, 63, 63);
+  }
+  button {
+    background-color: rgb(180, 64, 103);
+    border: none;
+    width: 70px;
+    height: 30px;
+    border-radius: 40px;
+    color: aliceblue;
+  }
+}
+
+.tree {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 550px;
+  img {
+    width: 260px;
+    height: 350px;
+  }
+  background-color: rgb(75, 74, 74);
+  h3 {
+    color: aliceblue;
+  }
+  p {
+    color: rgb(148, 63, 63);
+  }
+  button {
+    background-color: rgb(180, 64, 103);
+    border: none;
+    width: 70px;
+    height: 30px;
+    border-radius: 40px;
+    color: aliceblue;
+  }
+}
+.foor {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 550px;
+  img {
+    width: 260px;
+    height: 350px;
+  }
+  background-color: rgb(75, 74, 74);
+  h3 {
+    color: aliceblue;
+  }
+  p {
+    color: rgb(148, 63, 63);
+  }
+  button {
+    background-color: rgb(180, 64, 103);
+    border: none;
+    width: 70px;
+    height: 30px;
+    border-radius: 40px;
+    color: aliceblue;
+  }
+}
+
+.srt {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  flex-wrap: wrap;
+}

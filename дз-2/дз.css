@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.collosal{
+    background-color: black;
+    height: 500px;
+}
+header{ display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 80%;
+   margin: auto;
+   padding: 10px;
+}
+header div{
+    color: aliceblue;
+ font-size: 35px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+   
+}
+nav{ 
+     display: flex;
+    gap: 50px;
+}
+
+header button{ color: aliceblue;
+    background-color: rgb(90, 88, 88);
+ border-radius: 3px;
+ border: none;
+}
+
+
+ .marn{
+    height: 276px;
+    background-color: black;
+   display: flex;
+   gap: 20px;
+   padding: 330px;
+ }
+ .baby-1{ color: aliceblue;
+background-color: rgb(80, 81, 81);
+width: 328px;
+height: 276px;
+ }
+ .baby-2{
+    color: aliceblue;
+background-color: rgb(80, 81, 81);
+width: 328px;
+height: 276px;
+
+ }
+ .baby-3{
+color: aliceblue;
+background-color: rgb(80, 81, 81);
+width: 400px;
+height: 276px;
+ }

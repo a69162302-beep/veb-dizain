@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.may {
+  margin: 100px 250px;
+  width: 700px;
+  height: 500px;
+  background-color: white;
+  border-radius: 20px;
+}
+.bash {
+  display: flex;
+
+  img {
+    width: 80px;
+    position: relative;
+    left: 40px;
+    top: 30px;
+  }
+  h2 {
+    white-space: nowrap;
+    width: 100px;
+    position: relative;
+    left: 200px;
+    top: 40px;
+  }
+  button {
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: crimson;
+    border: 0px;
+    position: relative;
+    left: 400px;
+    top: 30px;
+  }
+}
+/* ____________________________________________________  */
+
+.sel {
+  select {
+    position: relative;
+    left: 330px;
+    color: silver;
+    width: 600px;
+    height: 30px;
+    position: absolute;
+    top: 300px;
+    background-color: aliceblue;
+    border: 30px;
+    border-radius: 5px;
+  }
+  h2 {
+    position: absolute;
+    top: 260px;
+    left: 330px;
+  }
+}
+
+.sal {
+  select {
+    position: relative;
+    left: 330px;
+    color: silver;
+    width: 600px;
+    height: 30px;
+    position: absolute;
+    top: 390px;
+    background-color: aliceblue;
+    border: 30px;
+    border-radius: 5px;
+  }
+  h2 {
+    position: absolute;
+    top: 350px;
+    left: 330px;
+  }
+}
+.sul {
+  select {
+    position: relative;
+    left: 330px;
+    color: silver;
+    width: 600px;
+    height: 30px;
+    position: absolute;
+    top: 490px;
+    background-color: aliceblue;
+    border: 30px;
+    border-radius: 5px;
+  }
+  h2 {
+    position: absolute;
+    top: 450px;
+    left: 330px;
+  }
+}
+
+.as {
+  width: 1300px;
+  height: 1000px;
+  background-color: rgb(102, 100, 100);
+  padding: 40px;
+}

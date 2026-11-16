@@ -1,0 +1,24 @@
+
+.sis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    img{
+        width: 300px;
+        
+    }
+  h1{
+    position: relative;
+    left: -80px;
+  }
+    
+}
+.det{
+    background-color: rgb(243, 245, 249);
+    margin: 30px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
